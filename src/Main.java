@@ -5,7 +5,7 @@ public class Main {
         Human human3 = new Human(1992, "Катя", "Калининград", "продакт-менеджер");
         Human human4 = new Human(-1995, "Артем", " ", "директор по развитию бизнеса");
 
-        human4.jobTitle = "региональный директор";
+        human4.jobTitle = "региональный директор по развитию бизнеса";
 
         System.out.println(human1);
         System.out.println(human2);

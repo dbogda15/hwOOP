@@ -22,7 +22,7 @@ public class Human {
         return jobTitle;
     }
 
-    //хочу, чтобы у human была возможность подъёма по карьерной лестнице
+    //хочу, чтобы у human была возможность подъёма по карьерной лестнице.
     public void setJobTitle(String jobTitle) {
         this.jobTitle = jobTitle;
     }
